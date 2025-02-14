@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "myapp",
+    "slug": "myapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Gedik.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Gedik.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.muhammedonal.myapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Gedik.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.muhammedonal.myapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a23aeefd-021c-4aab-bb18-f5bfd7009ebd"
+      }
+    }
+  }
+}
