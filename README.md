@@ -24,11 +24,11 @@ Mobile application for municipality complaints
 
 ![Screenshot_20250111_143049_myapp](https://github.com/user-attachments/assets/51f7239a-9d22-4b84-9900-47b37a89bb65)
 
+![Screenshot_20250111_143106_myapp](https://github.com/user-attachments/assets/c1095036-142f-42f0-84e7-9a90e8456dec)
+
 ![Screenshot_20250111_143112_myapp](https://github.com/user-attachments/assets/97816438-356d-4f60-a5a5-ba82a3537534)
 
 ![Screenshot_20250111_143126_myapp](https://github.com/user-attachments/assets/e96d2e97-cb97-4188-9a00-fa1e4172d53b)
-
-![Screenshot_20250111_143106_myapp](https://github.com/user-attachments/assets/c1095036-142f-42f0-84e7-9a90e8456dec)
 
 ![Screenshot_20250111_141554_myapp](https://github.com/user-attachments/assets/286f8b1d-a196-4142-a561-eeb4f23200f2)
 
